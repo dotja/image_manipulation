@@ -1,2 +1,3 @@
-# image_manipulation
-Manipulating images programatically
+# Image Manipulation
+
+Manipulating images programatically.
